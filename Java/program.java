@@ -7,11 +7,11 @@ import java.util.Scanner;
  */
 public class program {
   public static void main(String[] args) {
-    // Scanner scanner = new Scanner(System.in);
-    // System.out.print("введите имя: ");
-    // String tmp = scanner.nextLine();
-    // System.out.println("добрый день, " + tmp);
-    // scanner.close();
+    Scanner scanner = new Scanner(System.in);
+    System.out.print("введите имя: ");
+    String tmp = scanner.nextLine();
+    System.out.println("добрый день, " + tmp);
+    scanner.close();
 
     // int[] arr = new int[] { 0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 0 };
 
