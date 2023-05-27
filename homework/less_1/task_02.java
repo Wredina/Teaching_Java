@@ -1,4 +1,4 @@
-package homework;
+package homework.less_1;
 
 // 2) Вывести все простые числа от 1 до 1000
 public class task_02 {

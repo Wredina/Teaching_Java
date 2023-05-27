@@ -1,4 +1,4 @@
-package homework;
+package homework.less_1;
 
 import java.lang.reflect.Array;
 import java.util.Scanner;
